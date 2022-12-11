@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\bin\Debug\VCPKGInstallerPorts.dll
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\bin\Debug\VCPKGInstallerPorts.pdb
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\obj\Debug\VCPKGInstallerPorts.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\obj\Debug\VCPKGInstallerPorts.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\obj\Debug\VCPKGInstallerPorts.dll
+C:\Users\Администратор\source\repos\VCPKGInstallerPorts\VCPKGInstallerPorts\obj\Debug\VCPKGInstallerPorts.pdb
