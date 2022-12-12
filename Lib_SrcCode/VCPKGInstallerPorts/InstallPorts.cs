@@ -14,7 +14,7 @@ namespace VCPKGInstallerPorts
         {
             ProcessStartInfo start = new ProcessStartInfo();
             start.FileName = "cmd.exe";
-            start.Arguments = $"/c vcpkg install {ports_name} {x64_or_x86}:{os_name}";
+            start.Arguments = $"/c vcpkg install {ports_name}-{x64_or_x86}:{os_name}";
             start.Verb = "runas";
             start.WindowStyle = ProcessWindowStyle.Normal;
             Process.Start(start);
