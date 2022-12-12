@@ -12,7 +12,7 @@ namespace VCPKGInstallerPorts
     {
         public void InstallViaString(string ports_name, string x64_or_x86, string os_name)
         {
-            ProcessStartInfo start = new ProcessStartInfo();
+            ProcessStartInfo start = new ProcessStartInfo(); 
             start.FileName = "cmd.exe";
             start.Arguments = $"/c vcpkg install {ports_name}:{x64_or_x86}-{os_name}";
             start.Verb = "runas";
